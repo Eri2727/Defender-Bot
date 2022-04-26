@@ -1,6 +1,5 @@
 # Defender-Bot
-->This is a project made for the artificial intelligence course.
-->Made with Python and the LEGO® MINDSTORMS® EV3.
+->This is a project made for the artificial intelligence course, with Python and the LEGO® MINDSTORMS® EV3.
 
 For a better view of all the process: https://grupo8ia.wixsite.com/grupo8
 
